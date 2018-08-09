@@ -1,6 +1,2 @@
 Đã xóa hết
-<<<<<<< HEAD
-áhkdfgahjgqjj
-=======
-thêm 1 cái mới
->>>>>>> f792f2b6a0866a6e41e055911fb8b7a699844ec1
+jafgjfajh
