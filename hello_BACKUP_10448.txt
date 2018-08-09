@@ -1,8 +1,0 @@
-hello
-<<<<<<< HEAD
- nnguyenhaidang 
- nn
- asdasd
-=======
-bye nnguyenhaidang
->>>>>>> parent of 5f6288d... new commit
